@@ -1,0 +1,4 @@
+pandas>=1.5.3
+asks>=3.0.0
+trio>=0.22.0
+requests>=2.28.2
